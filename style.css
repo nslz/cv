@@ -80,7 +80,6 @@ section{
     transition: 1 ease;
     margin-top: 20px;
     border-radius: 5px;
-    text-shadow: 2px 2px 6px rgb(0, 0, 0);
 }
 
 .main-btn:hover{
